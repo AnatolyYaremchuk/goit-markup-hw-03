@@ -288,8 +288,9 @@ margin-bottom: 10px;
 .button-portfolio:hover {
   color: var(--background-white-color);
   background-color: var(--brand-color);
-  border-color: var(--background-white-color)
+  border-color: var(--background-white-color);
 }
+
 .button-portfolio {
   border: 1px solid transparent;
   display: inline-block;
